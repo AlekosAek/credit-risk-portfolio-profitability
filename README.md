@@ -118,4 +118,4 @@ This repository does not include the original raw dataset.
 
 ## Power BI Dashboard
 
-![Credit Risk Dashboard](images/credit-risk-dashboard.png)
+![Credit Risk Dashboard](credit-risk-dashboard.png)
