@@ -115,3 +115,7 @@ Dataset
 LendingClub public loan dataset, available through Kaggle.
 
 This repository does not include the original raw dataset.
+
+## Power BI Dashboard
+
+![Credit Risk Dashboard](images/credit-risk-dashboard.png)
